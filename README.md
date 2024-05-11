@@ -10,14 +10,14 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working as a **full time developer**
+
+ 🌱 I’m quite proficient in **React, NodeJS, ExpressJS and SQL databases**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **C#, Flutter and Cloud Technologies**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
+ ⚡ I love to work on different **Open Source and Hobby Projects**
+ 
  </div>
  
 <div align="center"> 
