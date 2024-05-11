@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a **full time developer**
+ 🔭 I’m currently working as a **full time web developer**
 
  🌱 I’m quite proficient in **React, NodeJS, ExpressJS and SQL databases**
  
- 🌱 I’m currently learning **C#, Flutter and Cloud Technologies**
+ 🌱 I’m quite interested in **C#, Flutter and Cloud Technologies**
 
  ⚡ I love to work on different **Open Source and Hobby Projects**
  
