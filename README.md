@@ -6,7 +6,6 @@
 
 <h3 align="center">A passionate software developer from Nepal NPL</h3>
 
-<br/>
 
 <div align="center">
  
