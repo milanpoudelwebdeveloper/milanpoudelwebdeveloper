@@ -12,12 +12,12 @@
  
  🔭 I’m currently working as a **full time web developer**
 
- 🌱 I’m quite proficient in **React, NodeJS, ExpressJS and SQL databases**
- 
- 🌱 I’m quite interested in **C#, Flutter and Cloud Technologies**
+🌱 I’m quite proficient in **React, NodeJS, ExpressJS and SQL databases**
 
- ⚡ I love to work on different **Open Source and Hobby Projects**
- 
+🌱 I’m quite interested in **C#, Flutter and Cloud Technologies**
+
+⚡ I love to work on different **Open Source and Hobby Projects**
+
  </div>
  
 <div align="center"> 
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/milanpoudelwebdeveloper/milanpoudelwebdeveloper/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/milanpoudelwebdeveloper/milanpoudelwebdeveloper/c56f0787841cb715e906b9acb5fc9bf117d827cd/snake.svg" />
   
   <br/><br/><br/>
 </div>
