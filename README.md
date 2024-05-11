@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Milan from Nepal, a quite passionate web developer proficient in React, NodeJS, Express  different cloud and database technologies like SQL, MongoDB and AWS. I work as a full time developer while trying to contribute to contribute on different open source and hobby projects.</h2>
+<h3 align="left">Hi 👋! I am Milan from Nepal, a quite passionate web developer proficient in React, NodeJS, Express  different cloud and database technologies like SQL, MongoDB and AWS. I work as a full time developer while trying to contribute on different open source and hobby projects.</h3>
 
 ###
 
