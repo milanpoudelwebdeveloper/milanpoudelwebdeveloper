@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Milan+Poudel!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Nepal NPL</h3>
+<h3 align="center">A passionate software developer from Nepal NPL U+1F1F3 U+1F1F5	&#127475 &#127477 </h3>
 
 
 <div align="center">
