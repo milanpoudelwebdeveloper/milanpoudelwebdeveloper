@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Milan+Poudel!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Nepal NPL  [<img src="https://readme-typing-svg.herokuapp.com/?](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/1200px-Flag_of_Nepal.svg.png)</h3>
+<h3 align="center">A passionate software developer from Nepal NPL <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/1200px-Flag_of_Nepal.svg.png /></h3>
 
 
 <div align="center">
