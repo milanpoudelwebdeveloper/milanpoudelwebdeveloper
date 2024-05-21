@@ -13,7 +13,7 @@
 
 🌱 I’m quite proficient in **React, NodeJS, ExpressJS and SQL databases**
 
-🌱 I’m quite familiar interested in **C#, React Native, Flutter and Cloud Technologies**
+🌱 I’m quite familiar and interested in **C#, React Native, Flutter and Cloud Technologies**
 
 ⚡ I love to work on different **Open Source and Hobby Projects**
 
