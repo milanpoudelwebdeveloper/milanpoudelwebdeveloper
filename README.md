@@ -12,7 +12,9 @@
  🔭 I’m currently working as a **full time web developer**
 
 🌱 I’m quite proficient(maybe lying) in **React, NodeJS, ExpressJS, and SQL databases (Postgres is my favorite)**
+
 🌱 Been writing API services in **Golang**. 
+
 🌱 I’m quite familiar and interested in **C#, React Native, Flutter and Cloud Technologies**
 
 
