@@ -11,7 +11,7 @@
  
  🔭 I’m currently working as a **full time web developer**
 
-🌱 I’m quite proficient(maybe lying) in **React, NodeJS, ExpressJS, and SQL databases (Postgres is my favorite)**
+🌱 I’m quite proficient(maybe lying) in **React, NodeJS, ExpressJS, and SQL databases**
 
 🌱 Been writing API services in **Golang**. 
 
